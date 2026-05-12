@@ -1,2 +1,6 @@
-bank-full.csv
-pradeepkumar
+numpy
+pandas
+matplot
+seaborn
+joblib
+flask
