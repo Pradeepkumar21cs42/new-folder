@@ -5,3 +5,4 @@ seaborn
 joblib
 flask
 logistic req
+decision tree
